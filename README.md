@@ -1,0 +1,2 @@
+# wordpress_email_server
+解决Wordpress无法发送邮件的问题，如无法发送请确保PHP开启了openssl扩展。
